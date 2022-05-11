@@ -43,9 +43,11 @@ func doTimesTable(whichTable int) {
 	}
 }
 
+/*
 func productBreakdown(product int, maxProdLen int) {
 	dhtu :=[]
 	sP := fmt.Sprintf("%d", product)
 	iP := len(sP)
 
 }
+*/
